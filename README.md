@@ -33,6 +33,9 @@
     </style>
 </head>
 <body class="antialiased">
+<header class="absolute inset-x-0 top-0 p-4 flex justify-end z-20">
+    <img src="503491142_17860619157422164_8610843937928964987_n.jpg" alt="Cafe Fravé Logo" class="w-16 h-16 md:w-20 md:h-20 rounded-full shadow-lg">
+</header>
 
     <!-- Hero Section -->
     <section class="relative h-[60vh] md:h-[80vh] bg-cover bg-center flex items-center justify-center p-4 text-center text-white" style="background-image: url('https://placehold.co/1200x800/2f643e/ffffff?text=Fresh+and+Healthy');">
