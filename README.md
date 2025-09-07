@@ -155,7 +155,8 @@ Parmesan | Truffle Oil</p>
                 <!-- Cafe Info -->
                 <div class="bg-white rounded-lg shadow-lg p-8 flex flex-col justify-center">
                     <h3 class="text-xl font-bold mb-4 text-[#1a4314]">Visit Us</h3>
-                    <p href='https://l.instagram.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FTJHDurrRTqR1v7VE7%3Fg_st%3Dcom.google.maps.preview.copy%26fbclid%3DPAZXh0bgNhZW0CMTEAAacb7laJIE627xouEcRHK5aOvK2g2TeXuopIesR-GdwDbSEGUyUy37_eY36HdQ_aem_1DKcm0upRKJinSUfFcnQbQ&e=AT3_HtODNHbDigqnx9Ml1SoDJEtUtX0ZLR-sGhgTPLmbzla95GJitUr3bCZdQMoMbzeit11N3UUFT3EpDnQkGLiQXZcEEqiFB_rYgjmVeQ'class="text-gray-700 mb-2">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</p>
+                    <!--<p class="text-gray-700 mb-2">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</p>-->
+                    <a href="https://l.instagram.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FTJHDurrRTqR1v7VE7%3Fg_st%3Dcom.google.maps.preview.copy%26fbclid%3DPAZXh0bgNhZW0CMTEAAacb7laJIE627xouEcRHK5aOvK2g2TeXuopIesR-GdwDbSEGUyUy37_eY36HdQ_aem_1DKcm0upRKJinSUfFcnQbQ&e=AT3_HtODNHbDigqnx9Ml1SoDJEtUtX0ZLR-sGhgTPLmbzla95GJitUr3bCZdQMoMbzeit11N3UUFT3EpDnQkGLiQXZcEEqiFB_rYgjmVeQ" class="hover:text-[#4caf50] transition duration-300">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</a>
                     <p class="text-gray-700 mb-2"><strong>Phone:</strong> +91 8087720122</p>
                     <p class="text-gray-700 mb-4"><strong>Email:</strong> frave@gmail.com</p>
 
