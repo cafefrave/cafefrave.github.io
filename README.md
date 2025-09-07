@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +13,6 @@
             font-family: 'Inter', sans-serif;
             background-color: #f0f9eb;
             color: #1a4314;
-            scroll-behavior: smooth;
         }
         /* Custom styles for animations and states */
         .loading-spinner {
@@ -33,9 +31,11 @@
     </style>
 </head>
 <body class="antialiased">
-<header class="absolute inset-x-0 top-0 p-4 flex justify-end z-20">
-    <img src="503491142_17860619157422164_8610843937928964987_n.jpg" alt="Cafe Fravé Logo" class="w-16 h-16 md:w-20 md:h-20 rounded-full shadow-lg">
-</header>
+
+    <!-- Header with Logo -->
+    <header class="absolute inset-x-0 top-0 p-4 flex justify-end z-20">
+        <img src="503491142_17860619157422164_8610843937928964987_n.jpg" alt="Cafe Fravé Logo" class="w-16 h-16 md:w-20 md:h-20 rounded-full shadow-lg">
+    </header>
 
     <!-- Hero Section -->
     <section class="relative h-[60vh] md:h-[80vh] bg-cover bg-center flex items-center justify-center p-4 text-center text-white" style="background-image: url('https://placehold.co/1200x800/2f643e/ffffff?text=Fresh+and+Healthy');">
@@ -44,7 +44,7 @@
         <div class="z-10 max-w-2xl">
             <!-- Increased margin to create more space -->
             <h1 class="text-4xl md:text-6xl font-bold mb-40">Cafe Fravé</h1>
-            <a href="#menu" class="bg-[#4caf50] hover:bg-[#388e3c] text-white font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">Explore Our Menu</a>
+            <a href="#menu" id="explore-menu-btn" class="bg-[#4caf50] hover:bg-[#388e3c] text-white font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">Explore Our Menu</a>
         </div>
     </section>
     
@@ -83,22 +83,14 @@
             <h2 class="text-3xl md:text-4xl font-bold mb-8 text-[#1a4314]">Our Menu</h2>
 
             <!-- Smoothies & Frappes Section -->
-            <h3 class="text-2xl font-semibold mb-4 text-[#1a4314] border-b-2 border-dashed border-[#4caf50] inline-block pb-1">Smoothies & Frappes</h3>
+            <h3 class="text-2xl font-semibold mb-4 text-[#1a4314] border-b-2 border-dashed border-[#4caf50] inline-block pb-1">Smoothies & Juices</h3>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 mt-4">
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Green Smoothie" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
                     <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Pink Rumba Smoothie</h4>
                     <p class="text-gray-600">Pink Guava | Strawberries | Basil seeds I
- Coconut milk | Raw Cane Sugar</p>
+Homemade Coconut milk | Raw Cane Sugar</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">Regular ₹270 | Bowl ₹320</span>
-                </div>
-		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
-                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Green Smoothie" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
-                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Mocha Brew Smoothie</h4>
-                    <p class="text-gray-600"> vanilla | Dates | Banana | 100%
-Cacao | Peanut Butter|
- Almond milk</p>
-                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">Regular ₹290 | Bowl ₹350</span>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Berry Bowl" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
@@ -115,17 +107,10 @@ House Almond Milk | Vanilla Gelato</p>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Frappe" alt="Fresh Juice" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
-                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Mocha Berry Fravé</h4>
+                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Frappe Fravé</h4>
                     <p class="text-gray-600">Espresso | Strawberries | Raspberries | Vanilla
 Gelato | Milk | 100% Cacao</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹240</span>
-                </div>
-		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
-                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Hot Chocolate" alt="Fresh Juice" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
-                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Cinnamon Drift Hot Chocolate</h4>
-                    <p class="text-gray-600">100% Cacao | Milk Cinnamon | Nutmeg Organic
-Jaggery</p>
-                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹199</span>
                 </div>
             </div>
 
@@ -144,12 +129,6 @@ Jaggery</p>
                     <p class="text-gray-600">Penne pasta | Béchamel Sauce | Mushrooms |
 Parmesan | Truffle Oil</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹299</span>
-                </div>
-		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
-                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Pasta" alt="Quinoa Salad" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
-                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">SPAGHETTI AGLIO E OLIO</h4>
-                    <p class="text-gray-600">Spaghetti Pasta | Olive oil | Garlic | Parsley | Herbs</p>
-                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹289</span>
                 </div>
             </div>
         </div>
@@ -245,6 +224,16 @@ Parmesan | Truffle Oil</p>
                 setTimeout(() => {
                     formMessage.classList.add('hidden');
                 }, 5000);
+            }
+        });
+
+        // Smooth scrolling for anchor links
+        document.getElementById('explore-menu-btn').addEventListener('click', function(e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href');
+            const targetElement = document.querySelector(targetId);
+            if (targetElement) {
+                targetElement.scrollIntoView({ behavior: 'smooth' });
             }
         });
     </script>
