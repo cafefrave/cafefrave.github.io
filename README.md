@@ -172,7 +172,7 @@ Parmesan | Truffle Oil</p>
         <div class="max-w-6xl mx-auto">
             <p>&copy; 2025 Cafe Fravé. All Rights Reserved.</p>
             <div class="mt-4 flex justify-center space-x-4">
-                <a href="#" class="hover:text-[#4caf50] transition duration-300">Facebook</a>
+    
                 <a href="https://www.instagram.com/frave.cafe/" class="hover:text-[#4caf50] transition duration-300">Instagram</a>
                 <a href="https://g.co/kgs/2wztXyN" class="hover:text-[#4caf50] transition duration-300">Fravé on Google</a>
                 <a href="https://zomato.onelink.me/xqzv/lgh8pm27" class="hover:text-[#4caf50] transition duration-300">Zomato</a>
