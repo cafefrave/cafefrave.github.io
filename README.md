@@ -155,7 +155,7 @@ Parmesan | Truffle Oil</p>
                 <!-- Cafe Info -->
                 <div class="bg-white rounded-lg shadow-lg p-8 flex flex-col justify-center">
                     <h3 class="text-xl font-bold mb-4 text-[#1a4314]">Visit Us</h3>
-                    <!--<p class="text-gray-700 mb-2">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</p>-->
+                    
                     <a href="https://l.instagram.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FTJHDurrRTqR1v7VE7%3Fg_st%3Dcom.google.maps.preview.copy%26fbclid%3DPAZXh0bgNhZW0CMTEAAacb7laJIE627xouEcRHK5aOvK2g2TeXuopIesR-GdwDbSEGUyUy37_eY36HdQ_aem_1DKcm0upRKJinSUfFcnQbQ&e=AT3_HtODNHbDigqnx9Ml1SoDJEtUtX0ZLR-sGhgTPLmbzla95GJitUr3bCZdQMoMbzeit11N3UUFT3EpDnQkGLiQXZcEEqiFB_rYgjmVeQ" class="hover:text-[#4caf50] transition duration-300">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</a>
                     <p class="text-gray-700 mb-2"><strong>Phone:</strong> +91 8087720122</p>
                     <p class="text-gray-700 mb-4"><strong>Email:</strong> frave@gmail.com</p>
@@ -174,7 +174,7 @@ Parmesan | Truffle Oil</p>
             <div class="mt-4 flex justify-center space-x-4">
                 <a href="#" class="hover:text-[#4caf50] transition duration-300">Facebook</a>
                 <a href="https://www.instagram.com/frave.cafe/" class="hover:text-[#4caf50] transition duration-300">Instagram</a>
-                <a href="https://l.instagram.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FTJHDurrRTqR1v7VE7%3Fg_st%3Dcom.google.maps.preview.copy%26fbclid%3DPAZXh0bgNhZW0CMTEAAacb7laJIE627xouEcRHK5aOvK2g2TeXuopIesR-GdwDbSEGUyUy37_eY36HdQ_aem_1DKcm0upRKJinSUfFcnQbQ&e=AT3_HtODNHbDigqnx9Ml1SoDJEtUtX0ZLR-sGhgTPLmbzla95GJitUr3bCZdQMoMbzeit11N3UUFT3EpDnQkGLiQXZcEEqiFB_rYgjmVeQ" class="hover:text-[#4caf50] transition duration-300">Google Maps</a>
+                <a href="[https://l.instagram.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FTJHDurrRTqR1v7VE7%3Fg_st%3Dcom.google.maps.preview.copy%26fbclid%3DPAZXh0bgNhZW0CMTEAAacb7laJIE627xouEcRHK5aOvK2g2TeXuopIesR-GdwDbSEGUyUy37_eY36HdQ_aem_1DKcm0upRKJinSUfFcnQbQ&e=AT3_HtODNHbDigqnx9Ml1SoDJEtUtX0ZLR-sGhgTPLmbzla95GJitUr3bCZdQMoMbzeit11N3UUFT3EpDnQkGLiQXZcEEqiFB_rYgjmVeQ](https://l.instagram.com/?u=https%3A%2F%2Fg.co%2Fkgs%2F2wztXyN%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAafwdoQK_RlOxxmFWsNU-zR_d7yzY4rOUmw2RsBeQToLac1P2l8dtj6SmxdppA_aem_gR-M_t2KNUeEnLG_qwGNxw&e=AT1ekoR0l0tcWREn1DTtZWGOu4ZO5sc6v9DEuhlEV-_HspHvsYpKpWEFaGKxyr8oIYuN7D9YgtIbviS8UKS2sjxQjKH-cFOveaCnOLAa3A)" class="hover:text-[#4caf50] transition duration-300">Fravé on Google</a>
             </div>
         </div>
     </footer>
