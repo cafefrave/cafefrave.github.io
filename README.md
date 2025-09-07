@@ -158,7 +158,7 @@ Parmesan | Truffle Oil</p>
                     
                     <a href="https://maps.app.goo.gl/uWvz1gaGdxPxBPr4A" class="hover:text-[#4caf50] transition duration-300">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</a>
                     <p class="text-gray-700 mb-2"><strong>Phone:</strong> +91 8087720122</p>
-                    <p class="text-gray-700 mb-4"><strong>Email:</strong> frave@gmail.com</p>
+                    <p class="text-gray-700 mb-4"><strong>Email:</strong> cafefrave@gmail.com</p>
 
                     <h3 class="text-xl font-bold mb-4 text-[#1a4314]">Hours of Operation</h3>
                     <p class="text-gray-700">Dine-In (12pm -10pm), Tuesdays Closed</p>
@@ -175,6 +175,8 @@ Parmesan | Truffle Oil</p>
                 <a href="#" class="hover:text-[#4caf50] transition duration-300">Facebook</a>
                 <a href="https://www.instagram.com/frave.cafe/" class="hover:text-[#4caf50] transition duration-300">Instagram</a>
                 <a href="https://g.co/kgs/2wztXyN" class="hover:text-[#4caf50] transition duration-300">Fravé on Google</a>
+                <a href="https://zomato.onelink.me/xqzv/lgh8pm27" class="hover:text-[#4caf50] transition duration-300">Zomato</a>
+                <a href="https://www.swiggy.com/city/nagpur/frave-pratap-nagar-rest1095085?source=sharing" class="hover:text-[#4caf50] transition duration-300">Swiggy</a>
             </div>
         </div>
     </footer>
