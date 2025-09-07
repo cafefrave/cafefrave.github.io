@@ -43,7 +43,7 @@
         <div class="z-10 max-w-2xl">
             <!-- Increased margin to create more space -->
             <h1 class="text-4xl md:text-6xl font-bold mb-40">Cafe Fravé</h1>
-            <a href="#menu" id="explore-menu-btn" class="bg-[#4caf50] hover:bg-[#388e3c] text-white font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">Explore Our Menu</a>
+            <a href="#menu" class="bg-[#4caf50] hover:bg-[#388e3c] text-white font-semibold py-3 px-8 rounded-full shadow-lg transition duration-300">Explore Our Menu</a>
         </div>
     </section>
     
@@ -82,14 +82,22 @@
             <h2 class="text-3xl md:text-4xl font-bold mb-8 text-[#1a4314]">Our Menu</h2>
 
             <!-- Smoothies & Frappes Section -->
-            <h3 class="text-2xl font-semibold mb-4 text-[#1a4314] border-b-2 border-dashed border-[#4caf50] inline-block pb-1">Smoothies & Juices</h3>
+            <h3 class="text-2xl font-semibold mb-4 text-[#1a4314] border-b-2 border-dashed border-[#4caf50] inline-block pb-1">Smoothies & Frappes</h3>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 mt-4">
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Green Smoothie" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
                     <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Pink Rumba Smoothie</h4>
                     <p class="text-gray-600">Pink Guava | Strawberries | Basil seeds I
-Homemade Coconut milk | Raw Cane Sugar</p>
+ Coconut milk | Raw Cane Sugar</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">Regular ₹270 | Bowl ₹320</span>
+                </div>
+		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
+                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Green Smoothie" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
+                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Mocha Brew Smoothie</h4>
+                    <p class="text-gray-600"> vanilla | Dates | Banana | 100%
+Cacao | Peanut Butter|
+ Almond milk</p>
+                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">Regular ₹290 | Bowl ₹350</span>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Smoothie" alt="Berry Bowl" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
@@ -106,10 +114,17 @@ House Almond Milk | Vanilla Gelato</p>
                 </div>
                 <div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
                     <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Frappe" alt="Fresh Juice" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
-                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Frappe Fravé</h4>
+                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Mocha Berry Fravé</h4>
                     <p class="text-gray-600">Espresso | Strawberries | Raspberries | Vanilla
 Gelato | Milk | 100% Cacao</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹240</span>
+                </div>
+		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
+                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Hot Chocolate" alt="Fresh Juice" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
+                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">Cinnamon Drift Hot Chocolate</h4>
+                    <p class="text-gray-600">100% Cacao | Milk Cinnamon | Nutmeg Organic
+Jaggery</p>
+                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹199</span>
                 </div>
             </div>
 
@@ -129,9 +144,17 @@ Gelato | Milk | 100% Cacao</p>
 Parmesan | Truffle Oil</p>
                     <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹299</span>
                 </div>
+		<div class="bg-white rounded-lg shadow-lg p-6 transform transition duration-300 hover:scale-105">
+                    <img src="https://placehold.co/200x200/d7c1b5/ffffff?text=Pasta" alt="Quinoa Salad" class="rounded-full w-24 h-24 mx-auto mb-4 object-cover">
+                    <h4 class="font-bold text-xl mb-2 text-[#1a4314]">SPAGHETTI AGLIO E OLIO</h4>
+                    <p class="text-gray-600">Spaghetti Pasta | Olive oil | Garlic | Parsley | Herbs</p>
+                    <span class="block mt-4 text-xl font-bold text-[#4caf50]">₹289</span>
+                </div>
             </div>
         </div>
     </section>
+
+
 
     <!-- Contact Section -->
     <section id="contact" class="bg-[#eaf4e5] py-16 px-4 md:px-8">
