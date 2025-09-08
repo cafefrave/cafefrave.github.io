@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -67,8 +68,8 @@
     </section>
 
     <!-- About Us Section -->
-    <section id="about" class="py-20 bg-white">
-        <div class="container mx-auto px-6 flex flex-col md:flex-row items-center gap-12">
+    <section id="about" class="py-20 bg-white px-6">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
             <div class="md:w-1/2">
                 <img src="https://placehold.co/600x400/b8d9a4/2e4d2e?text=Our+Philosophy" alt="About Us" class="rounded-lg shadow-xl">
             </div>
@@ -86,8 +87,8 @@
     </section>
 
     <!-- Menu Section -->
-    <section id="menu" class="py-20 bg-[#f8fcf5]">
-        <div class="container mx-auto px-6 text-center">
+    <section id="menu" class="py-20 bg-[#f8fcf5] px-6">
+        <div class="max-w-6xl mx-auto text-center">
             <h2 class="text-4xl font-bold mb-12">Our Menu</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Smoothies & Juices Section -->
@@ -133,8 +134,8 @@
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="py-20 bg-[#f8fcf5]">
-        <div class="container mx-auto px-6 text-center">
+    <section id="contact" class="py-20 bg-[#f8fcf5] px-6">
+        <div class="max-w-6xl mx-auto text-center">
             <h2 class="text-4xl font-bold mb-6">Get In Touch</h2>
             <div class="flex flex-col md:flex-row justify-center items-center gap-12">
                 <div class="md:w-1/2">
