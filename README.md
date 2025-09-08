@@ -151,7 +151,7 @@
                         <h3 class="text-2xl font-bold mb-4">Visit Us</h3>
                         <a href="https://maps.app.goo.gl/uWvz1gaGdxPxBPr4A" class="hover:text-[#4caf50] transition duration-300">258, Survey Nagar, Near Kalimata Mandir, Nagpur 440022</a>
                         <p class="text-lg text-gray-700 mb-2"><strong>Phone:</strong> +91 8087720122</p>
-                        <p class="text-lg text-gray-700 mb-4"><strong>Email:</strong> frave@gmail.com</p>
+                        <p class="text-lg text-gray-700 mb-4"><strong>Email:</strong> cafe.frave@gmail.com</p>
                         <h3 class="text-2xl font-bold mb-4 mt-6">Hours</h3>
                         <p class="text-lg text-gray-700">Dine-In (12pm -10pm), Tuesdays Closed</p>
                     </div>
