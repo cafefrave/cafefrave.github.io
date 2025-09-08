@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,19 +29,16 @@
     </style>
 </head>
 <body class="antialiased">
-    <!-- Header with Logo -->
-    <header class="absolute inset-x-0 top-0 p-4 flex justify-end z-20">
-        <img src="503491142_17860619157422164_8610843937928964987_n.jpg" alt="Cafe Fravé Logo" class="w-16 h-16 md:w-20 md:h-20 rounded-full shadow-lg">
-    </header>
 
     <!-- Navbar -->
     <nav class="fixed top-0 inset-x-0 bg-white bg-opacity-90 backdrop-blur-md z-50 shadow-sm transition-all duration-300">
         <div class="container mx-auto px-6 py-3 flex justify-between items-center">
             <a href="#" class="text-2xl font-bold text-[#2e4d2e] hover:text-[#558b2f] transition-colors duration-300">Cafe Fravé</a>
-            <div class="hidden md:flex space-x-8">
+            <div class="hidden md:flex space-x-8 items-center">
                 <a href="#about" class="text-[#2e4d2e] hover:text-[#558b2f] transition-colors duration-300">About Us</a>
                 <a href="#menu" class="text-[#2e4d2e] hover:text-[#558b2f] transition-colors duration-300">Menu</a>
                 <a href="#contact" class="text-[#2e4d2e] hover:text-[#558b2f] transition-colors duration-300">Contact</a>
+                <img src="503491142_17860619157422164_8610843937928964987_n.jpg" alt="Cafe Fravé Logo" class="w-10 h-10 rounded-full shadow-lg ml-8">
             </div>
             <!-- Mobile Menu Button -->
             <button id="mobile-menu-btn" class="md:hidden text-[#2e4d2e]">
