@@ -92,7 +92,7 @@
                 </div>
                 <div class="relative w-full h-80 fade-in fade-in-delay-2">
                     <video autoplay loop muted playsinline class="absolute inset-0 w-full h-full object-cover rounded-lg shadow-xl">
-                        <source src="https://github.com/cafefrave/cafefrave.github.io/blob/main/cafeeee%20fraveeee.mp4?raw=true" type="video/mp4">
+                        <source src="https://drive.google.com/file/d/19HDntbCoj5ypFKYalrhbaTRxG3GqSHMw/view?usp=sharing" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
